@@ -1,4 +1,3 @@
-# Quantium-virtual-internship
 This repository contains results of the completed tasks for the Quantium Data Analytics Virtual Experience Program by Forage, designed to replicate life in the Retail Analytics and Strategy team at Quantium, using Python.
 
 Certificate of Completion: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_3waNJW6o5fGQYFLdF_1674762081501_completion_certificate.pdf
