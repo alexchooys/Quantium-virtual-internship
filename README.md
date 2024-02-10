@@ -2,7 +2,7 @@
 
 This repository contains results of the completed tasks for the [Quantium Data Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics) by Forage, designed to replicate life in the Retail Analytics and Strategy team at Quantium, using Python.
 
-**Certificate of Completion:** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_3waNJW6o5fGQYFLdF_1674762081501_completion_certificate.pdf
+**Certificate of Completion:** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_2x3aweTps3JB3grq2_1707604056746_completion_certificate.pdf
 
 ### Dependencies:
 
