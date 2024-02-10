@@ -9,6 +9,7 @@ NumPy (install)
 xlrd (install - Anaconda | install - PyPI)
 Matplotlib (install)
 seaborn (install)
+
 Introduction:
 Quantium has had a data partnership with a large supermarket brand for the last few years who provide transactional and customer data. You are an analyst within the Quantium analytics team and are responsible for delivering highly valued data analytics and insights to help the business make strategic decisions.
 
@@ -22,6 +23,7 @@ Programming skills
 Statistics
 Critical thinking
 Commercial thinking
+
 Task 1
 Data preparation and customer analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
